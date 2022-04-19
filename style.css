@@ -41,6 +41,7 @@ ul li a::after{
 ul li a:hover::after{
   width: 100%;
 } 
+
 .navbar-icons img{
   height: 25px;
   margin-left: 40px;
@@ -49,6 +50,7 @@ ul li a:hover::after{
 .navbar-icons{
   margin-left: 40px;
 }
+
 .banner{
   display: flex;
   margin-top: 80px;
@@ -59,6 +61,7 @@ ul li a:hover::after{
 .right-column img{
   width: 100%;
 }
+
 .search-box{
   width: 45%;
   display: flex;
@@ -93,6 +96,7 @@ span{
   color: #999;
   margin: 50px 0;
 }
+
 .btn button{
   padding: 7px 30px;
   margin-right: 15px;
@@ -111,6 +115,7 @@ span{
 .btn{
   margin-bottom: 50px;
 }
+
 .social-icons{
   width: 200px;
   text-align: center;
@@ -122,7 +127,6 @@ span{
   height: 20px;
   margin: 0 14px;
 }
-
 .social-icons::after{
   content: '';
   width: 150px;
